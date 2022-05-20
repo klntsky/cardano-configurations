@@ -4,7 +4,7 @@
   "ApplicationName": "cardano-sl",
   "ApplicationVersion": 0,
   "ByronGenesisFile": "../genesis/byron.json",
-  "ByronGenesisHash": "96fceff972c2c06bd3bb5243c39215333be6d56aaf4823073dca31afe5038471",
+  "ByronGenesisHash": "a55dc89d6f6dd7ed7d749ba7088d367c64cd5283d2655fea1dd14013851408d5",
   "LastKnownBlockVersion-Alt": 0,
   "LastKnownBlockVersion-Major": 3,
   "LastKnownBlockVersion-Minor": 0,
